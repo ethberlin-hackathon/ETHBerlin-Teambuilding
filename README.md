@@ -1,15 +1,23 @@
-# ETHBerlin Team finding
-Have an idea to hack on? Looking for a team to work with? You're in the right place!
+# ETHBerlin-Teamfinding
+You are looking for a hacker to help buidl your idea or you're looking for a team to join? You've come to the right place!
 
 ![ETHBerlin logo](https://github.com/ethberlin-hackathon/media-assets/raw/master/ETHBerlin%20logo%20-%20horizontal%20transparent%20-%20small.png)
 
-## Join the chat
-First step is to join one of the chat channels to meet everyone. [#ethberlin](https://get.status.im/chat/public/ethberlin) is the official communications channel and there is a spin-off, [#buidlyourberlinteam](https://get.status.im/chat/public/buidlyourberlinteam), to introduce yourself and say what you're interested. Since a few days ago, we have a Matrix [channel](https://matrix.to/#/!WTJBLneNDtLzLNlkmU:matrix.org) too! There are multiple clients for Matrix, for example Rocket (centralized) and Riot (federated), take your pick.
+Hacking together is much more fun, so let's find you a team.
 
-## Ideas as guiding lights
-Go to the [issues](https://github.com/ethberlin-hackathon/ETHBerlin-Teambuilding/issues) to see the ideas hackers are sharing, and jump in the conversation if you find some interesting, there's a great opportunity to meet your future team members here! If you already have an idea your dying to execute, well, why not share it, to get some feedback, and to find interested people.
+## Hacker looking for a team
 
-### Submitting your idea
-Have a look at [#1](https://github.com/ethberlin-hackathon/ETHBerlin-Teambuilding/issues/1) to get an idea how the issue for your idea could look like. Not everything in there is mandatory, and feel free to change the structure if your idea doesn't quite fit to them, but please try to have a clear structure to make it easier for people looking at the issue to get some important information out of it quickly. In the example, we're using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to structure the issue. The title is an h3 heading, and the rest are h4 headings. Create the issue with a `idea` label, and additionally with a `join us` label if you're looking for team members.
+1. Open a new issue using the template `Hacker wants team`. Here you can introduce yourself and tell potential teams why you're awesome.
+2. Browse all open issues with the label `Team wants hacker`.
+3. If you find a team with an idea that excites you start engaging with the team. You can just comment in the issue. You should reference the issue from step 1 here, so that the team can learn a bit more about you.
 
-**Note:** Please keep in mind that the projects should be started from scratch during the hackathon. So, go ahead and discuss the idea, find team members, but don't actually start implementing it in the heat of the moment :)
+## Team looking for a hacker
+
+1. Open a new issue using the template `Team wants hacker`. Here you can pitch your idea and tell everyone why they should buidl it.
+2. Wait for hackers to approach you or browse through the hacker profiles (all issues with the label `Hacker wants team`) and engage with them.
+
+## Communication
+
+Interacting through issues might be great to find an intial match, but you probably want to take the conversation off GitHub at some point. You could meet in the #buidlyourberlinteam chat on [Status](https://status.im/) or the [hacker chat room on Riot](https://matrix.to/#/!WTJBLneNDtLzLNlkmU:matrix.org). You can also just directly leave your personal Riot/Status address. 
+
+Note that this only serves as a guideline, feel free to do whatever you see fit. 
