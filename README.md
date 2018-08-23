@@ -11,3 +11,5 @@ Go to the [issues](https://github.com/ethberlin-hackathon/ETHBerlin-Teambuilding
 
 ### Submitting your idea
 Have a look at [#1](https://github.com/ethberlin-hackathon/ETHBerlin-Teambuilding/issues/1) to get an idea how the issue for your idea could look like. Not everything in there is mandatory, and feel free to change the structure if your idea doesn't quite fit to them, but please try to have a clear structure to make it easier for people looking at the issue to get some important information out of it quickly. In the example, we're using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to structure the issue. The title is an h3 heading, and the rest are h4 headings. Create the issue with a `idea` label, and additionally with a `join us` label if you're looking for team members.
+
+**Note:** Please keep in mind that the projects should be started from scratch during the hackathon. So, go ahead and discuss the idea, find team members, but don't actually start implementing it in the heat of the moment :)
