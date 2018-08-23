@@ -4,7 +4,7 @@ Have an idea to hack on? Looking for a team to work with? You're in the right pl
 ![ETHBerlin logo](https://github.com/ethberlin-hackathon/media-assets/raw/master/ETHBerlin%20logo%20-%20horizontal%20transparent%20-%20small.png)
 
 ## Join the chat
-First step is to join one of the chat channels to meet everyone. [#ethberlin](https://get.status.im/chat/public/ethberlin) is the official communications channel and there is a spin-off, [#buidlyourberlinteam](https://get.status.im/chat/public/buidlyourberlinteam), to introduce yourself and say what you're interested. Since a few days ago, we have a Matrix [channel](https://matrix.to/#/!WTJBLneNDtLzLNlkmU:matrix.org) too! There are multiple clients for Matrix, for example Rocket (centralized) and Riot (federated), pick your choice.
+First step is to join one of the chat channels to meet everyone. [#ethberlin](https://get.status.im/chat/public/ethberlin) is the official communications channel and there is a spin-off, [#buidlyourberlinteam](https://get.status.im/chat/public/buidlyourberlinteam), to introduce yourself and say what you're interested. Since a few days ago, we have a Matrix [channel](https://matrix.to/#/!WTJBLneNDtLzLNlkmU:matrix.org) too! There are multiple clients for Matrix, for example Rocket (centralized) and Riot (federated), take your pick.
 
 ## Ideas as guiding lights
 Go to the [issues](https://github.com/ethberlin-hackathon/ETHBerlin-Teambuilding/issues) to see the ideas hackers are sharing, and jump in the conversation if you find some interesting, there's a great opportunity to meet your future team members here! If you already have an idea your dying to execute, well, why not share it, to get some feedback, and to find interested people.
