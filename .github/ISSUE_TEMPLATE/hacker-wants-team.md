@@ -17,5 +17,3 @@ about: You want to join a team and help buidl their idea
 *Consider leaving your personal Riot/Status address so that the team can contact you off GitHub.* 
 
 *Note that this is only a template, feel free to talk about anything you want teams to know!*
-
-AND FINALLY, PLEASE ADD A `Hacker wants team` LABEL.

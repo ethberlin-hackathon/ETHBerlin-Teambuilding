@@ -21,5 +21,3 @@ about: You have an idea and are looking for hackers to help you buidl
 **Consider leaving your personal Riot/Status address so that the hacker can contact you off GitHub.* 
 
 *Note that this is only a template, feel free to talk about anything you want hackers to know!*
-
-AND FINALLY, PLEASE ADD A `Team wants hacker` LABEL.
