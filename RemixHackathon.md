@@ -11,7 +11,7 @@ Important! You don't need to be a killer blockchain dev for participating, just 
 
 ## Introduction
 
-Remix is a suite of tools written in JavaScript used for developing smart contract,
+Remix is a suite of tools written in JavaScript used for developing smart contracts,
 It contains the following packages:
 
 https://github.com/ethereum/remix
@@ -27,9 +27,9 @@ https://github.com/ethereum/remix-ide
 https://github.com/ethereum/remixd
  - remixd (accessing local files from remix IDE)
 
-`remix.ethereum.org` host remix IDE web application, used to write, analyze, test and debug Ethereum smart contracts.
+`https://remix.ethereum.org` host remix IDE web application, used to write, analyze, test and debug Ethereum smart contracts.
 
-We have recently published an update that provide a way to develop external plugin.
+We have recently published an update that provides a way to develop external plugin.
 
 The purpose of this hackathon is to build plugins for Remix.
 
@@ -38,7 +38,7 @@ The purpose of this hackathon is to build plugins for Remix.
 Here we describe basic information about this event.
 
  - Each team should have at least one person present at the event.
- - Each team should choose a plugin from the plugin list.
+ - Each team should choose a plugin from the plugin list. https://github.com/ethberlin-hackathon/ETHBerlin-Teambuilding/issues?q=is%3Aissue+is%3Aopen+label%3A%22Remix-IDE+%3Adesktop_computer%3A%22
  - Please come to us prior starting, it is better to have a clear overview of who is working on what.
  - Feel free to communicate and ask question in https://gitter.im/ethereum/remix-dev-plugin .
  - If the plugin is already taken by another team, you can still take it, but we really encourage you to work with the other team rather than competing with them.
@@ -46,7 +46,7 @@ Here we describe basic information about this event.
  - You are still completely free to bring your own ideas. Please reach out and ask us if you want your idea to be funded.
  - At the end of the hackathon or shortly after, the evaluation team will select a maximum of 4 teams that will receive a sponsorship.
  - To evaluate your development, we need you to provide a document describing your work (see the "Document" section).
- - The ultimate plan is for us to continue working together. so please, keep in contact with us after event.
+ - The ultimate plan is for us to continue working together. So please, keep in contact with us after event.
 
 
 ## Plugin list
