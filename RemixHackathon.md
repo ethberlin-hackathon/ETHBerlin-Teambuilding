@@ -48,10 +48,9 @@ Here we describe basic information about this event.
  - To evaluate your development, we need you to provide a document describing your work (see the "Document" section).
  - The ultimate plan is for us to continue working together. So please, keep in contact with us after event.
 
-
 ## Plugin list
 
-https://hackmd.io/_sFlVpANQZK7JGjWaOrhzw
+https://github.com/ethberlin-hackathon/ETHBerlin-Teambuilding/issues?q=is%3Aissue+is%3Aopen+label%3A%22Remix-IDE+%3Adesktop_computer%3A%22
 
 ## Evaluation team
 
@@ -72,6 +71,8 @@ This document should contains:
     -  What were the main problems you encountered while developing and how did you solve them.
     -  What should have been done differently -if that applies.
     -  How would it be possible to extend contribution beyond the current project.
+    
+We really recommend to take time for that if you want to apply for a sponsorship.
 
 ## Setting up the development environement
 
@@ -83,7 +84,11 @@ https://github.com/ethereum/remix/blob/master/docs/remix_plugin_api.md
 
 We explain here how to get `remix-plugin`. A package that abstracts the `iframe` layer in order to make the development easier.
 
-### manual setup: building the Remix API lib
+### easy way: cloning the sample project and setting up the plugin
+
+follow the README of https://github.com/yann300/remix-plugin
+
+### manual setup: building the Remix API lib and setting up the plugin
 
 git clone https://github.com/ethereum/remix-ide
 npm install
@@ -92,9 +97,6 @@ cd src/app/plugin
 npm install
 npm run browserify
 This will generate the file `bundle.js`. Reference this file in any html page to start using the API.
-
-
-### setting up the project
 
 Once you have this `bundle.js` (or `require('remix-plugin')`)
 
