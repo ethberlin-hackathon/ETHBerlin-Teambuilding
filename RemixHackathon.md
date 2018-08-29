@@ -59,20 +59,35 @@ The evaluation team is composed of people from the EF. We are here for:
  - Selecting the 4 teams that will receive sponsorship.
  - Validating funded plugins.
  - Advising you if you wish to be more involved in the Ethereum community.
+
+We are:
+@ligi, @holiman (Martin), @leonardoalt, @yann300, @iurimatias, @chfast (Pawel), @axic (Alex), @ryestew (Rob), @ninabreznik , @serapath (Alex)
  
 ## Document
 
 This document should contains:
-    -  General description of the project.
-    -  Contact of involved people.
-    -  Github repository where the project is stored.
-    -  Description about how to make it work.
-    -  What is left to be done in order to be usable in production.
-    -  What were the main problems you encountered while developing and how did you solve them.
-    -  What should have been done differently -if that applies.
-    -  How would it be possible to extend contribution beyond the current project.
+  - General description of the project.
+  - Contact of involved people.
+  - Github repository where the project is stored.
+  - Description about how to make it work.
+  - What is left to be done in order to be usable in production.
+  - What were the main problems you encountered while developing and how did you solve them.
+  - What should have been done differently -if that applies.
+  - How would it be possible to extend contribution beyond the current project.
     
 We really recommend to take time for that if you want to apply for a sponsorship.
+
+## How to get started
+
+Once you have choosen a thema/plugin you have interest on:
+ - Read carefully this document.
+ - Join https://gitter.im/ethereum/remix-dev-plugin
+ - Come to speak to us either online or directly at the event
+ - Post a message in the issue saying that you are starting it with your name, the name of your team (super important!), your contact (like mail address and/or git contact)
+ - Feel free to come to us if you have any Ethereum related question or anything you want to talk about ;)
+ - Close to the end of the hackathon, Please send us a document describing your work (see the previous section). We will use it for selecting max 4 team that will receive devgrant from the Ethereum Foundation.
+ - After the event we really like to keep contact with for further contribution, collaboration, ...
+
 
 ## Setting up the development environement
 
