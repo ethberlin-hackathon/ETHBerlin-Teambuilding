@@ -42,7 +42,6 @@ Here we describe basic information about this event.
  - Please come to us prior starting, it is better to have a clear overview of who is working on what.
  - Feel free to communicate and ask question in https://gitter.im/ethereum/remix-dev-plugin .
  - If the plugin is already taken by another team, you can still take it, but we really encourage you to work with the other team rather than competing with them.
- - The development reward for each listed plugin is $500. This amount will be released at the end of the hackathon or shortly after, if the evaluation team considers that completed work was helpful.
  - You are still completely free to bring your own ideas. Please reach out and ask us if you want your idea to be funded.
  - At the end of the hackathon or shortly after, the evaluation team will select a maximum of 4 teams that will receive a sponsorship.
  - To evaluate your development, we need you to provide a document describing your work (see the "Document" section).
