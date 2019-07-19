@@ -10,7 +10,7 @@ about: You have an idea and are looking for hackers to help you buidl
 
 ## Team
 
-*Talk a little about yourself: e.g. who is already on board, what you've been up to or what brings you to ETHBerlin*
+*Talk a about yourself, the project and the team: e.g. who is already on board, what you've been up to or what brings you to ETHBerlin*
 
 ## Skills wanted
 
@@ -19,5 +19,3 @@ about: You have an idea and are looking for hackers to help you buidl
 ## Communication
 
 **Consider leaving your personal Riot/Status address so that the hacker can contact you off GitHub.* 
-
-*Note that this is only a template, feel free to talk about anything you want hackers to know!*
