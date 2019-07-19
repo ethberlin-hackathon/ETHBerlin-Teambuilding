@@ -12,6 +12,8 @@ about: You want to join a team and help buidl their idea
 
 *Tell us what you are looking to contribute, or want to learn: e.g. solidity, web3.js, go-ethereum, UX, game theory, ...*
 
+Add or create tags to help people filter issues and find exactly what they are looking for.
+
 ## Communication
 
 *Consider leaving your personal Riot/Status address so that the team can contact you off GitHub.*
